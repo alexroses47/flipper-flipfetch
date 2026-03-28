@@ -7,11 +7,9 @@ App(
     entry_point="flipfetch_app",
     stack_size=2 * 1024,
     fap_category="Examples",
-    # Optional values
-    # fap_version="0.1",
     fap_icon="flipfetch.png",  # 10x10 1-bit PNG
     fap_description="A simple app that shows some flipper info",
     fap_author="Ismael A. Rodríguez",
-    # fap_weburl="https://github.com/user/flipfetch",
+    fap_weburl="https://github.com/alexroses47/flipper-flipfetch/",
     fap_icon_assets="images",  # Image assets to compile for this application
 )
